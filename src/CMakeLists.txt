@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.19)
 add_executable(
         CLASSES_desktop_window_simulations
         main.cpp
-        display_t.cpp
+        window_t.cpp
         screen_t.cpp)
 
 
